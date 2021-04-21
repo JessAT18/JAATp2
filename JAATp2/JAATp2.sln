@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAATfncConsumidor", "JAATfncConsumidor\JAATfncConsumidor.csproj", "{DB1F6030-9D42-45D0-9622-544C0B82ABEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1F6030-9D42-45D0-9622-544C0B82ABEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1F6030-9D42-45D0-9622-544C0B82ABEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1F6030-9D42-45D0-9622-544C0B82ABEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1F6030-9D42-45D0-9622-544C0B82ABEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C638FF8E-B9F1-4E89-9022-363BED9B262A}
+	EndGlobalSection
+EndGlobal
